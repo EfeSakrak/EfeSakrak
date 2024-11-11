@@ -1,6 +1,6 @@
 [![MasterHead](https://www.horato.com/files/editor_images/2018/12/yazilim_mimarisi1.jpg)
 <h1 align="center">Hi 👋, I'm Efe Şakrak</h1>
-<h3 align="center">My name is Efe Şakrak and I am a computer engineering student.</h3>
+<h3 align="center">I am Efe Şakrak, I am a computer engineering student and also a junior full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efesakrak&label=Profile%20views&color=0e75b6&style=flat" alt="efesakrak" /> </p>
 
