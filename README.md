@@ -1,6 +1,6 @@
 [![MasterHead](https://www.horato.com/files/editor_images/2018/12/yazilim_mimarisi1.jpg)
 <h1 align="center">Hi 👋, I'm Efe Şakrak</h1>
-<h3 align="center">National Technical University Kharkiv I am a second-year computer engineering student at the Polytechnic Institute.</h3>
+<h3 align="center">My name is Efe Şakrak and I am a computer engineering student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efesakrak&label=Profile%20views&color=0e75b6&style=flat" alt="efesakrak" /> </p>
 
