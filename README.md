@@ -1,10 +1,8 @@
 ![MasterHead](https://www.horato.com/files/editor_images/2018/12/yazilim_mimarisi1.jpg)
-<h1 align="center">Hi 👋, I'm Efe Şakrak</h1>
+<h1 align="center">Efe Şakrak</h1>
 <h3 align="center">Computer Engineer & Full-Stack Developer | React, FastAPI, Python | AI-Assisted Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efesakrak&label=Profile%20views&color=0e75b6&style=flat" alt="efesakrak" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efesakrak" alt="efesakrak" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
