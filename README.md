@@ -17,4 +17,4 @@
 ### 📫 Let's Connect:
 - **Email:** sakrakefeinfo@gmail.com
 - **LinkedIn:** [linkedin.com/in/sakrakefe](https://www.linkedin.com/in/sakrakefe)
-- **Website:** [https://efe-portfolio-rose.vercel.app/]
+- **Website:** https://efe-portfolio-rose.vercel.app/
