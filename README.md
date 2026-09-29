@@ -1,6 +1,6 @@
-[![MasterHead](https://www.horato.com/files/editor_images/2018/12/yazilim_mimarisi1.jpg)
+![MasterHead](https://www.horato.com/files/editor_images/2018/12/yazilim_mimarisi1.jpg)
 <h1 align="center">Hi 👋, I'm Efe Şakrak</h1>
-<h3 align="center">I am a computer engineering student and also a junior full stack developer.</h3>
+<h3 align="center">Computer Engineer & Full-Stack Developer | React, FastAPI, Python | AI-Assisted Web Solutions</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=efesakrak&label=Profile%20views&color=0e75b6&style=flat" alt="efesakrak" /> </p>
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/efeşakrak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="efeşakrak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sakrakefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakrakefe" height="30" width="40" /></a>
 <a href="https://instagram.com/sakrakefe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sakrakefe" height="30" width="40" /></a>
 </p>
 
